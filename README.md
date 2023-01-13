@@ -9,13 +9,13 @@
 
 미로를 텍스트 파일로 만들어 출력하는 프로그램 작성
 
-![image](https://user-images.githubusercontent.com/72432673/212214463-4edce1cd-c9ad-401f-82bd-51c7dc3f5d6c.png)
+<img width="633" alt="image" src="https://user-images.githubusercontent.com/72432673/212214641-a182d637-858f-47c5-bc66-72bd7c18572d.png">
 
 **week 2**
 
 미로를 Openframeworks를 이용하여 그리는 프로그램 작성
 
-![image](https://user-images.githubusercontent.com/72432673/212214498-6b29773e-443d-4f16-89be-47ece2f978cc.png)
+<img width="286" alt="image" src="https://user-images.githubusercontent.com/72432673/212214587-760eb58f-8c48-4024-b735-4c6bd2c8b8ea.png">
 
 **week 3**
 
